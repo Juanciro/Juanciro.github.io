@@ -83,6 +83,6 @@ button:hover{
     }
 
     .description-card>p{
-        font-size: 25pt;
+        font-size: 1em;
     }
 }
